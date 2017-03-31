@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Bitmap/bitmap.c" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="File/FileAccess.c" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="File/FileAccess.h" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="File/File_lib.c" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="File/File_lib.h" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="File/MyFile.c" open="1" top="0" tabpos="6">
+		<Cursor position="975" topLine="23" />
+	</File>
+	<File name="File/MyFile.h" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="FunctionTest/TestFile.c" open="1" top="1" tabpos="4">
+		<Cursor position="2670" topLine="103" />
+	</File>
+	<File name="Hardware/Hardware.c" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Hardware/Hardware.h" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Mapping/Mapping.c" open="1" top="0" tabpos="2">
+		<Cursor position="4497" topLine="144" />
+	</File>
+	<File name="Mapping/Mapping.h" open="1" top="0" tabpos="1">
+		<Cursor position="1814" topLine="10" />
+	</File>
+	<File name="NandFlash/MetaNandFlah.h" open="0" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="NandFlash/NandFlash_sim.c" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="24" />
+	</File>
+	<File name="NandFlash/NandFlash_sim.h" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
